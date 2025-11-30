@@ -61,6 +61,9 @@ Welcome to **Azin Game**, an immersive RPG experience with a wide array of featu
 ### **Skin Shop**
 - **Skin Customization**: Visit the **Skin Shop** to purchase a variety of **skins** to further customize your character's look.
 
+### **Bank Heist System**
+- **Bank Robbery**: Plan and execute **bank robberies** with other players. The heists can be done solo or in groups, and successful robberies result in massive payouts! But beware: the police will be after you, and the stakes are high. Be prepared for intense action and strategy.
+
 ### **Additional Features**
 - **Vehicle Purchases**: Buy, sell, and upgrade a wide range of **vehicles** to cruise around the game world in style.
 - **Factions & Jobs**: Join various **factions**, take on exciting **jobs**, or even engage in **bank heists**. There's always something to do in the vast world of Azin Game!
@@ -78,6 +81,7 @@ Welcome to **Azin Game**, an immersive RPG experience with a wide array of featu
 - **Team Up for Boss Fights**: The **Boss NPCs** are tough, so it’s best to team up with other players to increase your chances of success.
 - **Mine A Coins**: If you're interested in cryptocurrencies, **A Coin** mining can be a lucrative way to gain in-game wealth. Keep an eye on market trends!
 - **Explore Turf Wars**: Become part of a **mafia faction**, dominate territories, and participate in **turf wars** to grow your faction's power.
+- **Master Bank Heists**: Plan carefully and execute a **bank robbery** to secure your fortune. Be strategic and avoid getting caught!
 
 ---
 
